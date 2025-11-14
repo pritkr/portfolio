@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rohit</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Rohit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Need of a community space in Bihar</title>
-      <link>//localhost:1313/blog/biharfoss-space/</link>
+      <link>/blog/biharfoss-space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/biharfoss-space/</guid>
+      <guid>/blog/biharfoss-space/</guid>
       <description>FOSS United builds real, people-first communities. Bihar’s brightest need mentorship and industry experience. We must create a community space there to bridge that gap. Our current initiation is to build FOSS Clubs in the entire engineering and polytechnic colleges to promote free and open-source culture and collaboration among students through events, workshops, and networking in college campuses.</description>
     </item>
     
     <item>
       <title>The adoption of FOSS in Bihar</title>
-      <link>//localhost:1313/blog/biharfoss-blog/</link>
+      <link>/blog/biharfoss-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/blog/biharfoss-blog/</guid>
+      <guid>/blog/biharfoss-blog/</guid>
       <description>We are building FOSS Community in Bihar.</description>
     </item>
     
     <item>
       <title>Building Bihar FOSS</title>
-      <link>//localhost:1313/projects/obsidian-publish-github-action/</link>
+      <link>/projects/obsidian-publish-github-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/obsidian-publish-github-action/</guid>
+      <guid>/projects/obsidian-publish-github-action/</guid>
       <description>Initiative to promote open source and innovation across Bihar.</description>
     </item>
     
     <item>
       <title>Computer Vision Intern</title>
-      <link>//localhost:1313/experience/iit-madras/</link>
+      <link>/experience/iit-madras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/experience/iit-madras/</guid>
+      <guid>/experience/iit-madras/</guid>
       <description>IIT Madras (India)</description>
     </item>
     
