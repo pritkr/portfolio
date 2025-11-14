@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.netlify.app"
+baseURL: ""
 languageCode: en-us
-title: Abdur Rahman
+title: Rohit
 theme: PaperMod
 
 menu:
@@ -31,7 +31,7 @@ menu:
     #   weight: 60
     # - identifier: notes
     #   name: Notes
-    #   url: https://notes.arkalim.org
+    #   url: https://notes.rohit.org
     #   weight: 70
 
 params:
@@ -48,11 +48,11 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
+    title: "Rohit"
+    subtitle: Hi I'm Rohit Kumar, 2nd year of persuing B.Tech in Computer Science and Engineering.
 
  
-    imageUrl: "home/casual-small-square.jpeg"
+    imageUrl: "me.jpg"  
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -69,13 +69,12 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:2004rohitkumar18@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/rohitfoss"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/fossism"
+    
 
   # text search
   fuseOpts:
