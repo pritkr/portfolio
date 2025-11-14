@@ -1,6 +1,6 @@
 ---
 title: "Need of a community space in Bihar"
-description: "FOSS United builds real, people-first communities. Bihar’s brightest need mentorship and industry experience. We must create a community space there to bridge that gap. Our current initiation is to build FOSS Clubs in the entire engineering and polytechnic colleges to promote free and open-source culture and collaboration among students through events, workshops, and networking in college campuses."    
+description: "FOSS United builds real, people-first communities. Bihar’s brightest need mentorship and industry experience. We must create a community space there to bridge that gap. Our current initiation is to build FOSS Clubs in the entire engineering and polytechnic colleges to promote free and open-source culture and collaboration among students through events, workshops, and networking in college camspuses."    
 dateString: 5 Sept 2025
 draft: false
 tags: ["BiharFOSS"]
